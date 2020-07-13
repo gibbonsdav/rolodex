@@ -3,10 +3,11 @@
 }
 
 h1 {
-  font-family: "Bangers";
+  font-family: "Roboto";
   font-size: 72px;
-  color: #0ccac4;
+  color: blue;
 }
 
 .search {
+  border: solid 2px darkblue;
 }
